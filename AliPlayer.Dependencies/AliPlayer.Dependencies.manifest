@@ -1,0 +1,15 @@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+<assemblyIdentity name="AliPlayer.Dependencies" processorArchitecture="x86" version="1.0.0.0" type="win32" />
+
+<file name = "iconv-2.dll" />
+<file name = "libalivcffmpeg.dll" />
+<file name = "libcrypto-1_1.dll" />
+<file name = "libcurl.dll" />
+<file name = "libssl-1_1.dll" />
+<file name = "libxml2.dll" />
+<file name = "lzma.dll" />
+<file name = "SDL2.dll" />
+<file name = "zlib1.dll" />
+
+</assembly>
